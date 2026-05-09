@@ -2,1090 +2,1400 @@
   "BCD Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 3102,
-      "avgVariability": "88.13%",
-      "highlyIntermittent": "43.94%"
+      "avgVariability": "88.1%",
+      "highlyIntermittent": "43.9%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 1362,
+        "combPercentage": "43.9",
+        "volume": 493112,
+        "volPercentage": "31.6",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1371,
+        "combPercentage": "44.2",
+        "volume": 727769,
+        "volPercentage": "46.7",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 367,
+        "combPercentage": "11.8",
+        "volume": 338276,
+        "volPercentage": "21.7",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 2,
+        "combPercentage": "0",
+        "volume": -269,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 74
+        "combPerc": 2.39,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 742
+        "combPerc": 23.94,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 589
+        "combPerc": 19.0,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 509
+        "combPerc": 16.42,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 369
+        "combPerc": 11.9,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 185
+        "combPerc": 5.97,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 132
+        "combPerc": 4.26,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 127
+        "combPerc": 4.1,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 70
+        "combPerc": 2.26,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 83
+        "combPerc": 2.68,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 110
+        "combPerc": 3.55,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 85
+        "combPerc": 2.74,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 173
+        "combPerc": 5.58,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 357
+        "combPerc": 11.52,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 881
+        "combPerc": 28.42,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 908
+        "combPerc": 29.29,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 417
+        "combPerc": 13.45,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 139
+        "combPerc": 4.48,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 30
+        "combPerc": 0.97,
+        "volPerc": NaN
       }
     ]
   },
   "BID Antibodies Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 1,
-      "avgVariability": "100.00%",
-      "highlyIntermittent": "0.00%"
+      "avgVariability": "100.0%",
+      "highlyIntermittent": "0.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 0,
+        "combPercentage": "0.0",
+        "volume": 0,
+        "volPercentage": "0.0",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1,
+        "combPercentage": "100.0",
+        "volume": 1,
+        "volPercentage": "100.0",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 0,
+        "combPercentage": "0.0",
+        "volume": 0,
+        "volPercentage": "0.0",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 1
+        "combPerc": 100.0,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 1
+        "combPerc": 100.0,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ]
   },
   "BID Consumables Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 4135,
-      "avgVariability": "82.32%",
-      "highlyIntermittent": "39.11%"
+      "avgVariability": "82.3%",
+      "highlyIntermittent": "39.1%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 1617,
+        "combPercentage": "39.1",
+        "volume": 22368,
+        "volPercentage": "2.6",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1787,
+        "combPercentage": "43.2",
+        "volume": 258120,
+        "volPercentage": "30.4",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 731,
+        "combPercentage": "17.7",
+        "volume": 569296,
+        "volPercentage": "67.0",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 95
+        "combPerc": 2.3,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 812
+        "combPerc": 19.64,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 780
+        "combPerc": 18.86,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 555
+        "combPerc": 13.42,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 429
+        "combPerc": 10.37,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 288
+        "combPerc": 6.96,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 193
+        "combPerc": 4.67,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 220
+        "combPerc": 5.32,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 144
+        "combPerc": 3.48,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 173
+        "combPerc": 4.18,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 167
+        "combPerc": 4.04,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 209
+        "combPerc": 5.05,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 355
+        "combPerc": 8.59,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 532
+        "combPerc": 12.87,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 1182
+        "combPerc": 28.59,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 1061
+        "combPerc": 25.66,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 419
+        "combPerc": 10.13,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 178
+        "combPerc": 4.3,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 32
+        "combPerc": 0.77,
+        "volPerc": NaN
       }
     ]
   },
   "BID Instruments Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 1,
-      "avgVariability": "100.00%",
-      "highlyIntermittent": "0.00%"
+      "avgVariability": "100.0%",
+      "highlyIntermittent": "0.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 0,
+        "combPercentage": "0.0",
+        "volume": 0,
+        "volPercentage": "0.0",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1,
+        "combPercentage": "100.0",
+        "volume": 1,
+        "volPercentage": "100.0",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 0,
+        "combPercentage": "0.0",
+        "volume": 0,
+        "volPercentage": "0.0",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 1
+        "combPerc": 100.0,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 1
+        "combPerc": 100.0,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ]
   },
   "BID OEM Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 88,
-      "avgVariability": "96.59%",
-      "highlyIntermittent": "65.91%"
+      "avgVariability": "96.6%",
+      "highlyIntermittent": "65.9%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 58,
+        "combPercentage": "65.9",
+        "volume": 45747,
+        "volPercentage": "26.8",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 27,
+        "combPercentage": "30.7",
+        "volume": 76554,
+        "volPercentage": "44.9",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 3,
+        "combPercentage": "3.4",
+        "volume": 48120,
+        "volPercentage": "28.2",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 15
+        "combPerc": 17.05,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 35
+        "combPerc": 39.77,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 20
+        "combPerc": 22.73,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 9
+        "combPerc": 10.23,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 7
+        "combPerc": 7.95,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 4
+        "combPerc": 4.55,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 17
+        "combPerc": 19.32,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 16
+        "combPerc": 18.18,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 31
+        "combPerc": 35.23,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 16
+        "combPerc": 18.18,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 1
+        "combPerc": 1.14,
+        "volPerc": NaN
       }
     ]
   },
   "BID Spark Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 58377,
-      "avgVariability": "99.40%",
-      "highlyIntermittent": "42.39%"
+      "avgVariability": "99.4%",
+      "highlyIntermittent": "42.4%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 24744,
+        "combPercentage": "42.4",
+        "volume": 117360,
+        "volPercentage": "57.3",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 33299,
+        "combPercentage": "57.0",
+        "volume": 67824,
+        "volPercentage": "33.1",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 334,
+        "combPercentage": "0.6",
+        "volume": 19582,
+        "volPercentage": "9.6",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 39783
+        "combPerc": 68.15,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 13359
+        "combPerc": 22.88,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 3111
+        "combPerc": 5.33,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 1123
+        "combPerc": 1.92,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 549
+        "combPerc": 0.94,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 234
+        "combPerc": 0.4,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 136
+        "combPerc": 0.23,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 82
+        "combPerc": 0.14,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 58
+        "combPerc": 0.1,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 291
+        "combPerc": 0.5,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 861
+        "combPerc": 1.47,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 3853
+        "combPerc": 6.6,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 5477
+        "combPerc": 9.38,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 18387
+        "combPerc": 31.5,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 27114
+        "combPerc": 46.45,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 2336
+        "combPerc": 4.0,
+        "volPerc": NaN
       }
     ]
   },
   "CSD Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 3862,
-      "avgVariability": "88.37%",
-      "highlyIntermittent": "48.47%"
+      "avgVariability": "88.4%",
+      "highlyIntermittent": "48.5%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 1872,
+        "combPercentage": "48.5",
+        "volume": 711460,
+        "volPercentage": "34.5",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1542,
+        "combPercentage": "39.9",
+        "volume": 498274,
+        "volPercentage": "24.2",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 448,
+        "combPercentage": "11.6",
+        "volume": 852130,
+        "volPercentage": "41.3",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 858
+        "combPerc": 22.22,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 1157
+        "combPerc": 29.96,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 502
+        "combPerc": 13.0,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 310
+        "combPerc": 8.03,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 269
+        "combPerc": 6.97,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 211
+        "combPerc": 5.46,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 166
+        "combPerc": 4.3,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 389
+        "combPerc": 10.07,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 17
+        "combPerc": 0.44,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 170
+        "combPerc": 4.4,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 262
+        "combPerc": 6.78,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 316
+        "combPerc": 8.18,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 668
+        "combPerc": 17.3,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 634
+        "combPerc": 16.42,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 985
+        "combPerc": 25.5,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 682
+        "combPerc": 17.66,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 128
+        "combPerc": 3.31,
+        "volPerc": NaN
       }
     ]
   },
   "GSD Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 13,
-      "avgVariability": "100.00%",
-      "highlyIntermittent": "53.85%"
+      "avgVariability": "100.0%",
+      "highlyIntermittent": "53.8%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 7,
+        "combPercentage": "53.8",
+        "volume": 130,
+        "volPercentage": "53.5",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 6,
+        "combPercentage": "46.2",
+        "volume": 113,
+        "volPercentage": "46.5",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 0,
+        "combPercentage": "0.0",
+        "volume": 0,
+        "volPercentage": "0.0",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 6
+        "combPerc": 46.15,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 4
+        "combPerc": 30.77,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 1
+        "combPerc": 7.69,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 1
+        "combPerc": 7.69,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 1
+        "combPerc": 7.69,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 0
+        "combPerc": 0.0,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 2
+        "combPerc": 15.38,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 2
+        "combPerc": 15.38,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 4
+        "combPerc": 30.77,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 4
+        "combPerc": 30.77,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 1
+        "combPerc": 7.69,
+        "volPerc": NaN
       }
     ]
   },
   "PPA Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 3434,
-      "avgVariability": "84.82%",
-      "highlyIntermittent": "40.05%"
+      "avgVariability": "84.8%",
+      "highlyIntermittent": "40.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 1322,
+        "combPercentage": "40.1",
+        "volume": 18875,
+        "volPercentage": "11.0",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 1479,
+        "combPercentage": "44.8",
+        "volume": 68907,
+        "volPercentage": "40.3",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 500,
+        "combPercentage": "15.2",
+        "volume": 83286,
+        "volPercentage": "48.7",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 133,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 147
+        "combPerc": 4.45,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 659
+        "combPerc": 19.96,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 613
+        "combPerc": 18.57,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 533
+        "combPerc": 16.15,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 420
+        "combPerc": 12.72,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 205
+        "combPerc": 6.21,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 141
+        "combPerc": 4.27,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 162
+        "combPerc": 4.91,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 80
+        "combPerc": 2.42,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 70
+        "combPerc": 2.12,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 178
+        "combPerc": 5.39,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 79
+        "combPerc": 2.39,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 244
+        "combPerc": 7.39,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 458
+        "combPerc": 13.87,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 1038
+        "combPerc": 31.45,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 776
+        "combPerc": 23.51,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 345
+        "combPerc": 10.45,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 136
+        "combPerc": 4.12,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 47
+        "combPerc": 1.42,
+        "volPerc": NaN
       }
     ]
   },
   "SUD Final Bookings History Complete_Segmentation_Report - May 9": {
     "kpis": {
       "totalSKUs": 9956,
-      "avgVariability": "89.71%",
-      "highlyIntermittent": "46.07%"
+      "avgVariability": "89.7%",
+      "highlyIntermittent": "46.1%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
         "value": 4587,
+        "combPercentage": "46.1",
+        "volume": 2962681,
+        "volPercentage": "38.5",
         "color": "#ef4444"
       },
       {
         "name": "High Variability",
         "value": 4348,
+        "combPercentage": "43.7",
+        "volume": 3605459,
+        "volPercentage": "46.8",
         "color": "#f59e0b"
       },
       {
         "name": "Low Variability",
         "value": 1021,
+        "combPercentage": "10.3",
+        "volume": 1136334,
+        "volPercentage": "14.8",
         "color": "#3b82f6"
       },
       {
         "name": "No Demand",
         "value": 0,
+        "combPercentage": "0",
+        "volume": 0,
+        "volPercentage": "0",
         "color": "#94a3b8"
       }
     ],
     "intermittency": [
       {
         "band": "0 - 0.1",
-        "count": 275
+        "combPerc": 2.76,
+        "volPerc": NaN
       },
       {
         "band": "0.11 - 0.2",
-        "count": 2479
+        "combPerc": 24.9,
+        "volPerc": NaN
       },
       {
         "band": "0.21 - 0.3",
-        "count": 2277
+        "combPerc": 22.87,
+        "volPerc": NaN
       },
       {
         "band": "0.31 - 0.4",
-        "count": 1754
+        "combPerc": 17.62,
+        "volPerc": NaN
       },
       {
         "band": "0.41 - 0.5",
-        "count": 1173
+        "combPerc": 11.78,
+        "volPerc": NaN
       },
       {
         "band": "0.51 - 0.6",
-        "count": 466
+        "combPerc": 4.68,
+        "volPerc": NaN
       },
       {
         "band": "0.61 - 0.7",
-        "count": 344
+        "combPerc": 3.46,
+        "volPerc": NaN
       },
       {
         "band": "0.71 - 0.8",
-        "count": 257
+        "combPerc": 2.58,
+        "volPerc": NaN
       },
       {
         "band": "0.81 - 0.9",
-        "count": 140
+        "combPerc": 1.41,
+        "volPerc": NaN
       },
       {
         "band": "0.91 - 1",
-        "count": 137
+        "combPerc": 1.38,
+        "volPerc": NaN
       }
     ],
     "variability": [
       {
         "band": "0 <= Band <= 25%",
-        "count": 448
+        "combPerc": 4.5,
+        "volPerc": NaN
       },
       {
         "band": "25% < Band <= 50%",
-        "count": 159
+        "combPerc": 1.6,
+        "volPerc": NaN
       },
       {
         "band": "50% < Band <= 75%",
-        "count": 417
+        "combPerc": 4.19,
+        "volPerc": NaN
       },
       {
         "band": "75% < Band <= 100%",
-        "count": 1090
+        "combPerc": 10.95,
+        "volPerc": NaN
       },
       {
         "band": "100% < Band <= 150%",
-        "count": 3093
+        "combPerc": 31.07,
+        "volPerc": NaN
       },
       {
         "band": "150% < Band <= 200%",
-        "count": 3053
+        "combPerc": 30.66,
+        "volPerc": NaN
       },
       {
         "band": "200% < Band <= 250%",
-        "count": 1202
+        "combPerc": 12.07,
+        "volPerc": NaN
       },
       {
         "band": "250% < Band <= 300%",
-        "count": 417
+        "combPerc": 4.19,
+        "volPerc": NaN
       },
       {
         "band": "300% > Band",
-        "count": 77
+        "combPerc": 0.77,
+        "volPerc": NaN
       }
     ]
   }
