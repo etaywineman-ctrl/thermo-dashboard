@@ -1,101 +1,511 @@
 {
   "BCD": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 3102,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 1362,
+        "combPercentage": 43.9,
+        "volume": 493112,
+        "volPercentage": 31.6,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1371,
+        "combPercentage": 44.2,
+        "volume": 727769,
+        "volPercentage": 46.7,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 367,
+        "combPercentage": 11.8,
+        "volume": 338276,
+        "volPercentage": 21.7,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 2,
+        "combPercentage": 0,
+        "volume": -269,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "BID Antibodies": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 1,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 0,
+        "combPercentage": 0.0,
+        "volume": 0,
+        "volPercentage": 0.0,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1,
+        "combPercentage": 100.0,
+        "volume": 1,
+        "volPercentage": 100.0,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "combPercentage": 0.0,
+        "volume": 0,
+        "volPercentage": 0.0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "BID Consumables": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 4135,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 1617,
+        "combPercentage": 39.1,
+        "volume": 22368,
+        "volPercentage": 2.6,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1787,
+        "combPercentage": 43.2,
+        "volume": 258120,
+        "volPercentage": 30.4,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 731,
+        "combPercentage": 17.7,
+        "volume": 569296,
+        "volPercentage": 67.0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "BID Instruments": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 1,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 0,
+        "combPercentage": 0.0,
+        "volume": 0,
+        "volPercentage": 0.0,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1,
+        "combPercentage": 100.0,
+        "volume": 1,
+        "volPercentage": 100.0,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "combPercentage": 0.0,
+        "volume": 0,
+        "volPercentage": 0.0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "BID OEM": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 88,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 58,
+        "combPercentage": 65.9,
+        "volume": 45747,
+        "volPercentage": 26.8,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 27,
+        "combPercentage": 30.7,
+        "volume": 76554,
+        "volPercentage": 44.9,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 3,
+        "combPercentage": 3.4,
+        "volume": 48120,
+        "volPercentage": 28.2,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "BID Spark": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 58377,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 24744,
+        "combPercentage": 42.4,
+        "volume": 117360,
+        "volPercentage": 57.3,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 33299,
+        "combPercentage": 57.0,
+        "volume": 67824,
+        "volPercentage": 33.1,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 334,
+        "combPercentage": 0.6,
+        "volume": 19582,
+        "volPercentage": 9.6,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "CSD": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 3862,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 1872,
+        "combPercentage": 48.5,
+        "volume": 711460,
+        "volPercentage": 34.5,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1542,
+        "combPercentage": 39.9,
+        "volume": 498274,
+        "volPercentage": 24.2,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 448,
+        "combPercentage": 11.6,
+        "volume": 852130,
+        "volPercentage": 41.3,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "GSD": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 13,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 7,
+        "combPercentage": 53.8,
+        "volume": 130,
+        "volPercentage": 53.5,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 6,
+        "combPercentage": 46.2,
+        "volume": 113,
+        "volPercentage": 46.5,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "combPercentage": 0.0,
+        "volume": 0,
+        "volPercentage": 0.0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "PPA": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 3434,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 1322,
+        "combPercentage": 40.1,
+        "volume": 18875,
+        "volPercentage": 11.0,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1479,
+        "combPercentage": 44.8,
+        "volume": 68907,
+        "volPercentage": 40.3,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 500,
+        "combPercentage": 15.2,
+        "volume": 83286,
+        "volPercentage": 48.7,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 133,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   },
   "SUD": {
     "kpis": {
-      "totalSKUs": 0,
+      "totalSKUs": 9956,
       "avgVariability": "0%",
       "highlyIntermittent": "0%"
     },
-    "segmentation": [],
+    "segmentation": [
+      {
+        "name": "Segment",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#cccccc"
+      },
+      {
+        "name": "High Intermittency",
+        "value": 4587,
+        "combPercentage": 46.1,
+        "volume": 2962681,
+        "volPercentage": 38.5,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 4348,
+        "combPercentage": 43.7,
+        "volume": 3605459,
+        "volPercentage": 46.8,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 1021,
+        "combPercentage": 10.3,
+        "volume": 1136334,
+        "volPercentage": 14.8,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "combPercentage": 0,
+        "volume": 0,
+        "volPercentage": 0,
+        "color": "#94a3b8"
+      }
+    ],
     "intermittency": [],
     "variability": []
   }
