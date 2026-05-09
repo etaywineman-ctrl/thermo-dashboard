@@ -1,5 +1,5 @@
 {
-  "BCD Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BCD": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -9,7 +9,7 @@
     "intermittency": [],
     "variability": []
   },
-  "BID Antibodies Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BID Antibodies": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -19,7 +19,7 @@
     "intermittency": [],
     "variability": []
   },
-  "BID Consumables Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BID Consumables": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -29,7 +29,7 @@
     "intermittency": [],
     "variability": []
   },
-  "BID Instruments Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BID Instruments": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -39,7 +39,7 @@
     "intermittency": [],
     "variability": []
   },
-  "BID OEM Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BID OEM": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -49,7 +49,7 @@
     "intermittency": [],
     "variability": []
   },
-  "BID Spark Final Bookings History Complete_Segmentation_Report - May 9": {
+  "BID Spark": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -59,7 +59,7 @@
     "intermittency": [],
     "variability": []
   },
-  "CSD Final Bookings History Complete_Segmentation_Report - May 9": {
+  "CSD": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -69,7 +69,7 @@
     "intermittency": [],
     "variability": []
   },
-  "GSD Final Bookings History Complete_Segmentation_Report - May 9": {
+  "GSD": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -79,7 +79,7 @@
     "intermittency": [],
     "variability": []
   },
-  "PPA Final Bookings History Complete_Segmentation_Report - May 9": {
+  "PPA": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
@@ -89,7 +89,7 @@
     "intermittency": [],
     "variability": []
   },
-  "SUD Final Bookings History Complete_Segmentation_Report - May 9": {
+  "SUD": {
     "kpis": {
       "totalSKUs": 0,
       "avgVariability": "0%",
