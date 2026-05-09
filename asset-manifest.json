@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thermo-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/thermo-dashboard/static/js/main.8cb11585.js",
+    "static/js/453.4c8d9c65.chunk.js": "/thermo-dashboard/static/js/453.4c8d9c65.chunk.js",
+    "index.html": "/thermo-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/thermo-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.8cb11585.js.map": "/thermo-dashboard/static/js/main.8cb11585.js.map",
+    "453.4c8d9c65.chunk.js.map": "/thermo-dashboard/static/js/453.4c8d9c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8cb11585.js"
+  ]
+}

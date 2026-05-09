@@ -1,0 +1,1092 @@
+{
+  "BCD Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 3102,
+      "avgVariability": "88.13%",
+      "highlyIntermittent": "43.94%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 1362,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1371,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 367,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 2,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 74
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 742
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 589
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 509
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 369
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 185
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 132
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 127
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 70
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 83
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 110
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 85
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 173
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 357
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 881
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 908
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 417
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 139
+      },
+      {
+        "band": "300% > Band",
+        "count": 30
+      }
+    ]
+  },
+  "BID Antibodies Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 1,
+      "avgVariability": "100.00%",
+      "highlyIntermittent": "0.00%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 0,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 1
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 0
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 0
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 0
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 0
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 0
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 0
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 0
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 0
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 0
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 0
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 0
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 0
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 0
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 1
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 0
+      },
+      {
+        "band": "300% > Band",
+        "count": 0
+      }
+    ]
+  },
+  "BID Consumables Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 4135,
+      "avgVariability": "82.32%",
+      "highlyIntermittent": "39.11%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 1617,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1787,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 731,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 95
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 812
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 780
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 555
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 429
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 288
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 193
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 220
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 144
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 173
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 167
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 209
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 355
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 532
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 1182
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 1061
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 419
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 178
+      },
+      {
+        "band": "300% > Band",
+        "count": 32
+      }
+    ]
+  },
+  "BID Instruments Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 1,
+      "avgVariability": "100.00%",
+      "highlyIntermittent": "0.00%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 0,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 1
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 0
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 0
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 0
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 0
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 0
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 0
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 0
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 0
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 0
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 0
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 0
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 0
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 0
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 0
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 1
+      },
+      {
+        "band": "300% > Band",
+        "count": 0
+      }
+    ]
+  },
+  "BID OEM Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 88,
+      "avgVariability": "96.59%",
+      "highlyIntermittent": "65.91%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 58,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 27,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 3,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 15
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 35
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 20
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 9
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 7
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 1
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 0
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 1
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 1
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 1
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 1
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 4
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 17
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 16
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 31
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 16
+      },
+      {
+        "band": "300% > Band",
+        "count": 1
+      }
+    ]
+  },
+  "BID Spark Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 58377,
+      "avgVariability": "99.40%",
+      "highlyIntermittent": "42.39%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 24744,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 33299,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 334,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 39783
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 13359
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 3111
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 1123
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 549
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 234
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 136
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 82
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 0
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 58
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 291
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 861
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 3853
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 5477
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 18387
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 27114
+      },
+      {
+        "band": "300% > Band",
+        "count": 2336
+      }
+    ]
+  },
+  "CSD Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 3862,
+      "avgVariability": "88.37%",
+      "highlyIntermittent": "48.47%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 1872,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1542,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 448,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 858
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 1157
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 502
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 310
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 269
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 211
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 166
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 389
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 17
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 170
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 262
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 316
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 668
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 634
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 985
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 682
+      },
+      {
+        "band": "300% > Band",
+        "count": 128
+      }
+    ]
+  },
+  "GSD Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 13,
+      "avgVariability": "100.00%",
+      "highlyIntermittent": "53.85%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 7,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 6,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 0,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 6
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 4
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 1
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 1
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 1
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 0
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 0
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 0
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 0
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 0
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 0
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 0
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 0
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 0
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 2
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 2
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 4
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 4
+      },
+      {
+        "band": "300% > Band",
+        "count": 1
+      }
+    ]
+  },
+  "PPA Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 3434,
+      "avgVariability": "84.82%",
+      "highlyIntermittent": "40.05%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 1322,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 1479,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 500,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 133,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 147
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 659
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 613
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 533
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 420
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 205
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 141
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 162
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 80
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 70
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 178
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 79
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 244
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 458
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 1038
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 776
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 345
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 136
+      },
+      {
+        "band": "300% > Band",
+        "count": 47
+      }
+    ]
+  },
+  "SUD Final Bookings History Complete_Segmentation_Report - May 9": {
+    "kpis": {
+      "totalSKUs": 9956,
+      "avgVariability": "89.71%",
+      "highlyIntermittent": "46.07%"
+    },
+    "segmentation": [
+      {
+        "name": "High Intermittency",
+        "value": 4587,
+        "color": "#ef4444"
+      },
+      {
+        "name": "High Variability",
+        "value": 4348,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Low Variability",
+        "value": 1021,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "No Demand",
+        "value": 0,
+        "color": "#94a3b8"
+      }
+    ],
+    "intermittency": [
+      {
+        "band": "0 - 0.1",
+        "count": 275
+      },
+      {
+        "band": "0.11 - 0.2",
+        "count": 2479
+      },
+      {
+        "band": "0.21 - 0.3",
+        "count": 2277
+      },
+      {
+        "band": "0.31 - 0.4",
+        "count": 1754
+      },
+      {
+        "band": "0.41 - 0.5",
+        "count": 1173
+      },
+      {
+        "band": "0.51 - 0.6",
+        "count": 466
+      },
+      {
+        "band": "0.61 - 0.7",
+        "count": 344
+      },
+      {
+        "band": "0.71 - 0.8",
+        "count": 257
+      },
+      {
+        "band": "0.81 - 0.9",
+        "count": 140
+      },
+      {
+        "band": "0.91 - 1",
+        "count": 137
+      }
+    ],
+    "variability": [
+      {
+        "band": "0 <= Band <= 25%",
+        "count": 448
+      },
+      {
+        "band": "25% < Band <= 50%",
+        "count": 159
+      },
+      {
+        "band": "50% < Band <= 75%",
+        "count": 417
+      },
+      {
+        "band": "75% < Band <= 100%",
+        "count": 1090
+      },
+      {
+        "band": "100% < Band <= 150%",
+        "count": 3093
+      },
+      {
+        "band": "150% < Band <= 200%",
+        "count": 3053
+      },
+      {
+        "band": "200% < Band <= 250%",
+        "count": 1202
+      },
+      {
+        "band": "250% < Band <= 300%",
+        "count": 417
+      },
+      {
+        "band": "300% > Band",
+        "count": 77
+      }
+    ]
+  }
+}
