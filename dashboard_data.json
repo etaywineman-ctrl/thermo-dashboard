@@ -1,14 +1,14 @@
 {
   "BCD": {
     "kpis": {
-      "totalSKUs": 3102,
+      "totalSKUs": 0,
       "avgVariability": "88.1%",
       "highlyIntermittent": "43.9%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 1362,
+        "value": 1,
         "combPercentage": 43.9,
         "volume": 493112,
         "volPercentage": 31.6,
@@ -16,7 +16,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1371,
+        "value": 2,
         "combPercentage": 44.2,
         "volume": 727769,
         "volPercentage": 46.7,
@@ -24,7 +24,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 367,
+        "value": 3,
         "combPercentage": 11.8,
         "volume": 338276,
         "volPercentage": 21.7,
@@ -138,14 +138,14 @@
   },
   "BID Antibodies": {
     "kpis": {
-      "totalSKUs": 1,
+      "totalSKUs": 0,
       "avgVariability": "100.0%",
       "highlyIntermittent": "0.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 0,
+        "value": 1,
         "combPercentage": 0.0,
         "volume": 0,
         "volPercentage": 0.0,
@@ -153,7 +153,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1,
+        "value": 2,
         "combPercentage": 100.0,
         "volume": 1,
         "volPercentage": 100.0,
@@ -161,7 +161,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 0,
+        "value": 3,
         "combPercentage": 0.0,
         "volume": 0,
         "volPercentage": 0.0,
@@ -275,14 +275,14 @@
   },
   "BID Consumables": {
     "kpis": {
-      "totalSKUs": 4135,
+      "totalSKUs": 0,
       "avgVariability": "82.3%",
       "highlyIntermittent": "39.1%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 1617,
+        "value": 1,
         "combPercentage": 39.1,
         "volume": 22368,
         "volPercentage": 2.6,
@@ -290,7 +290,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1787,
+        "value": 2,
         "combPercentage": 43.2,
         "volume": 258120,
         "volPercentage": 30.4,
@@ -298,7 +298,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 731,
+        "value": 3,
         "combPercentage": 17.7,
         "volume": 569296,
         "volPercentage": 67.0,
@@ -412,14 +412,14 @@
   },
   "BID Instruments": {
     "kpis": {
-      "totalSKUs": 1,
+      "totalSKUs": 0,
       "avgVariability": "100.0%",
       "highlyIntermittent": "0.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 0,
+        "value": 1,
         "combPercentage": 0.0,
         "volume": 0,
         "volPercentage": 0.0,
@@ -427,7 +427,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1,
+        "value": 2,
         "combPercentage": 100.0,
         "volume": 1,
         "volPercentage": 100.0,
@@ -435,7 +435,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 0,
+        "value": 3,
         "combPercentage": 0.0,
         "volume": 0,
         "volPercentage": 0.0,
@@ -549,14 +549,14 @@
   },
   "BID OEM": {
     "kpis": {
-      "totalSKUs": 88,
+      "totalSKUs": 0,
       "avgVariability": "96.6%",
       "highlyIntermittent": "65.9%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 58,
+        "value": 1,
         "combPercentage": 65.9,
         "volume": 45747,
         "volPercentage": 26.8,
@@ -564,7 +564,7 @@
       },
       {
         "name": "High Variability",
-        "value": 27,
+        "value": 2,
         "combPercentage": 30.7,
         "volume": 76554,
         "volPercentage": 44.9,
@@ -686,14 +686,14 @@
   },
   "BID Spark": {
     "kpis": {
-      "totalSKUs": 58377,
+      "totalSKUs": 0,
       "avgVariability": "99.4%",
       "highlyIntermittent": "42.4%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 24744,
+        "value": 1,
         "combPercentage": 42.4,
         "volume": 117360,
         "volPercentage": 57.3,
@@ -701,7 +701,7 @@
       },
       {
         "name": "High Variability",
-        "value": 33299,
+        "value": 2,
         "combPercentage": 57.0,
         "volume": 67824,
         "volPercentage": 33.1,
@@ -709,7 +709,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 334,
+        "value": 3,
         "combPercentage": 0.6,
         "volume": 19582,
         "volPercentage": 9.6,
@@ -823,14 +823,14 @@
   },
   "CSD": {
     "kpis": {
-      "totalSKUs": 3862,
+      "totalSKUs": 0,
       "avgVariability": "88.4%",
       "highlyIntermittent": "48.5%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 1872,
+        "value": 1,
         "combPercentage": 48.5,
         "volume": 711460,
         "volPercentage": 34.5,
@@ -838,7 +838,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1542,
+        "value": 2,
         "combPercentage": 39.9,
         "volume": 498274,
         "volPercentage": 24.2,
@@ -846,7 +846,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 448,
+        "value": 3,
         "combPercentage": 11.6,
         "volume": 852130,
         "volPercentage": 41.3,
@@ -960,14 +960,14 @@
   },
   "GSD": {
     "kpis": {
-      "totalSKUs": 13,
+      "totalSKUs": 0,
       "avgVariability": "100.0%",
       "highlyIntermittent": "53.8%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 7,
+        "value": 1,
         "combPercentage": 53.8,
         "volume": 130,
         "volPercentage": 53.5,
@@ -975,7 +975,7 @@
       },
       {
         "name": "High Variability",
-        "value": 6,
+        "value": 2,
         "combPercentage": 46.2,
         "volume": 113,
         "volPercentage": 46.5,
@@ -983,7 +983,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 0,
+        "value": 3,
         "combPercentage": 0.0,
         "volume": 0,
         "volPercentage": 0.0,
@@ -1097,14 +1097,14 @@
   },
   "PPA": {
     "kpis": {
-      "totalSKUs": 3434,
+      "totalSKUs": 0,
       "avgVariability": "84.8%",
       "highlyIntermittent": "40.0%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 1322,
+        "value": 1,
         "combPercentage": 40.1,
         "volume": 18875,
         "volPercentage": 11.0,
@@ -1112,7 +1112,7 @@
       },
       {
         "name": "High Variability",
-        "value": 1479,
+        "value": 2,
         "combPercentage": 44.8,
         "volume": 68907,
         "volPercentage": 40.3,
@@ -1120,7 +1120,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 500,
+        "value": 3,
         "combPercentage": 15.2,
         "volume": 83286,
         "volPercentage": 48.7,
@@ -1234,14 +1234,14 @@
   },
   "SUD": {
     "kpis": {
-      "totalSKUs": 9956,
+      "totalSKUs": 0,
       "avgVariability": "89.7%",
       "highlyIntermittent": "46.1%"
     },
     "segmentation": [
       {
         "name": "High Intermittency",
-        "value": 4587,
+        "value": 1,
         "combPercentage": 46.1,
         "volume": 2962681,
         "volPercentage": 38.5,
@@ -1249,7 +1249,7 @@
       },
       {
         "name": "High Variability",
-        "value": 4348,
+        "value": 2,
         "combPercentage": 43.7,
         "volume": 3605459,
         "volPercentage": 46.8,
@@ -1257,7 +1257,7 @@
       },
       {
         "name": "Low Variability",
-        "value": 1021,
+        "value": 3,
         "combPercentage": 10.3,
         "volume": 1136334,
         "volPercentage": 14.8,
